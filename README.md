@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Yohane The Parhelion! The Siren in the Mirror World!</h1>
-<h2 align="center">CCROG2 - Machine Project<br>
+<h2 align="center">CCROG2 - Machine Project<br></h2>
 
 <p align="center">
   <img src="assets/yohane_lailaps.gif" alt="Yohane Poster" width="600"/>
