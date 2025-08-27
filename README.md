@@ -3,6 +3,7 @@
 </p>
 
 <h1 align="center">Yohane The Parhelion! The Siren in the Mirror World!</h1>
+<h2 align="center">CCPROG2 - Machine Project</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CCPROG2-Machine%20Project-blue?style=for-the-badge" alt="CCPROG2 Machine Project"/>
