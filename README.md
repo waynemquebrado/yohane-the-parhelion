@@ -1,13 +1,17 @@
-# Yohane The Parhelion
 <p align="center">
-  <img src="assets/anime_poster.jpg" alt="Yohane and Lailaps" width="900"/>
+  <img src="assets/anime_poster.jpg" alt="Yohane and Lailaps" width="750"/>
 </p>
 
-## Overview
+# Yohane The Parhelion
+
+<h1 align="center">Centered Big Title</h1>
+<h2>Subtitle</h2>
 
 <p align="center">
   <img src="assets/yohane_lailaps.gif" alt="Yohane Poster" width="600"/>
 </p>
+
+## Overview
 
 **Yohane the Parhelion! The Siren in the Mirror World!** is a roguelike dungeon-crawler game developed in C. In the game, the members of the idol group Aqours have lost their voices to a malevolent Siren. The player takes on the role of Yohane, who must venture into dangerous dungeons to rescue her friends and ultimately confront the Siren to restore their voices.
 
