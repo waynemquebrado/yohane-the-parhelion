@@ -4,9 +4,11 @@
 
 <h1 align="center">Yohane The Parhelion! The Siren in the Mirror World!</h1>
 
-![Language](https://img.shields.io/badge/language-C-blue.svg)
-![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
-![Status](https://img.shields.io/badge/status-complete-brightgreen.svg)
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Platform-Windows-lightgrey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge"/>
+</p>
 
 <p align="center">
   <img src="assets/yohane_lailaps.gif" alt="Yohane Poster" width="600"/>
