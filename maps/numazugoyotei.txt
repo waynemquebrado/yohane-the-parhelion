@@ -1,0 +1,52 @@
+5 0
+*******************************************************
+*E....................................................*
+*vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv..*
+*..................................................v..*
+*..vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv..v..*
+*..v.....v......v..w.....v..w.....w...h.......v....v..*
+*..v..v.........v..v.T...v..v.....w...v..Y....v..vvv..*
+*..v..vvvvvvvvvvv..vvvvvvv..vvvvvvvvvvvvvvvvvvv....v..*
+*..v...............................................v..*
+*..vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv..*
+*.....................................................*
+*******************************************************
+5 1
+*******************************************************
+*xxxxxxxxxxxxx.E.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx*
+*xxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx*
+*............v...ww......v.......v........v......v....*
+*..vvvvvvvv..vwwwww......v.......v........w..vv..vvv..*
+*..v......v..v...........w.......w........v...v.......*
+*..v..vT..v..h...........vvvvvvvvv........xxxxxxxxxxxx*
+*..v..vvvvv..v.....Y.....v.......v........xxxxxxxxxxxx*
+*..v.........v...........v................xxx.........*
+*..vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv....*
+*.....................................................*
+*******************************************************
+5 2
+*******************************************************
+*..xx......v.......h.....v......v...xxxx..............*
+*..xxhhxx..v.......v.....w......v...xxxx...........v..*
+*..v...xx..vvvvvvvvvvvvxxx......w...vvvvhhvvvvvvvvvv..*
+*..vY..xx..............xxx......v......w...........v..*
+*..vvwvxx..............xxxvvvvwwvvvvvvvv...........v..*
+*..v....v..............v........w......v...........v..*
+*..v....v..vwwvvvv.....w........v......v...........v..*
+*..v....v..v.....v.....v...T....h..vvvvvvvvvvvvvvvvv..*
+*..vvvvvv..v.....v.....v........v.....................*
+*..........v.....v.....v........v............E........*
+*******************************************************
+5 3
+*******************************************************
+*xxx..................................v............w..*
+*xxxwwxxwwvvvvvvvvvvvvvvvvvvvvvvvvvv..v............v..*
+*xxx..xx..v......v.................v..vvvvvvvvvvvvvv..*
+*xxx..xx..v..Y...xxxxxxxhhvvvvvvv..v..v...............*
+*xxx......v......ww.............v..v..v..vvwwvvvvvvvvv*
+*xxxxxxxxxxwwvvvxxxxxxx.........v..v..v...............*
+*xxxxxxxxxxww....xxxxxxxvvvvvvvvv..v..v.............hh*
+*xxxxxxxxxx......xxxxxxx...........v..w.............hE*
+*xxxxxxxxxx..T...xxxxxxx..vvvvvvvvvv..v.............hh*
+*xxxxxxxxxx......xxxxxxx..............v...............*
+*******************************************************
