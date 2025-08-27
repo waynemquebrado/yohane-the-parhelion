@@ -109,3 +109,7 @@ The game will prompt for a player name, which will be used to create or load a `
 *   **W3Schools**: For `atan2()` function usage.
 *   **Study.com**: For the mathematical concepts applied to the Siren's behavior.
 *   **Playtesters**: For their valuable feedback during development.
+
+## Disclaimer ⚠️
+
+This project was developed as part of a machine project for academic purposes.
