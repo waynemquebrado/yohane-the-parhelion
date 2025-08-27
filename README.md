@@ -6,10 +6,6 @@
 <h2 align="center">CCPROG2 - Machine Project</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CCPROG2-Machine%20Project-blue?style=for-the-badge" alt="CCPROG2 Machine Project"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/language-C-blue.svg"/>
   <img src="https://img.shields.io/badge/platform-Windows-lightgrey.svg"/>
   <img src="https://img.shields.io/badge/status-Complete-brightgreen.svg"/>
