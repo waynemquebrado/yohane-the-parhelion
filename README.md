@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/language-C-blue.svg"/>
-  <img src="https://img.shields.io/badge/platform-Windows-lightgrey.svg"/>
-  <img src="https://img.shields.io/badge/status-Complete-brightgreen.svg"/>
+  <img src="https://img.shields.io/badge/Language-C-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Platform-Windows-blueviolet?style=for-the-badge" />
 </p>
 
 <p align="center">
