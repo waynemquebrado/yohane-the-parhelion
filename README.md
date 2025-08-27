@@ -2,10 +2,8 @@
   <img src="assets/anime_poster.jpg" alt="Yohane and Lailaps" width="750"/>
 </p>
 
-# Yohane The Parhelion
-
-<h1 align="center">Centered Big Title</h1>
-<h2>Subtitle</h2>
+<h1 align="center">Yohane The Parhelion! The Siren in the Mirror World!</h1>
+<h2>CCROG2 - Machine Project</h2>
 
 <p align="center">
   <img src="assets/yohane_lailaps.gif" alt="Yohane Poster" width="600"/>
