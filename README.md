@@ -112,6 +112,6 @@ The game will prompt for a player name, which will be used to create or load a `
 
 ## Disclaimer ⚠️
 
-This repository is for **educational purposes only** as part of a CCPROG2 machine project.  
+This repository is for **educational purposes only** as part of a CCPROG2 machine project.
 All rights to **Yohane the Parhelion**, its characters, artwork, and related media belong to their respective copyright holders.
 No copyright infringement is intended.
