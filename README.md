@@ -110,8 +110,8 @@ The game will prompt for a player name, which will be used to create or load a `
 *   **W3Schools**: For `atan2()` function usage.
 *   **Study.com**: For the mathematical concepts applied to the Siren's behavior.
 *   **Playtesters**: For their valuable feedback during development.
-*   `assets/yohane_lailaps.gif` — **[GIF Media](https://tenor.com/view/yoshiko-tsushima-lailaps-yohane-the-parhelion-anime-genjitsu-no-yohane-sunshine-in-the-mirror-gif-11829191177845240132)**
-*   `assets/anime_poster.jpg` — **[JPEG Artwork](https://static.wikia.nocookie.net/love-live/images/8/8b/Yohane_of_the_Parhelion_Anime_Key_Visual.jpg/revision/latest?cb=20230212120145)**
+*   [**assets/yohane_lailaps.gif**](https://tenor.com/view/yoshiko-tsushima-lailaps-yohane-the-parhelion-anime-genjitsu-no-yohane-sunshine-in-the-mirror-gif-11829191177845240132)
+*   [**assets/anime_poster.jpg**](https://static.wikia.nocookie.net/love-live/images/8/8b/Yohane_of_the_Parhelion_Anime_Key_Visual.jpg/revision/latest?cb=20230212120145)
 
 ## Disclaimer ⚠️
 
