@@ -1,5 +1,7 @@
-# Yohane The Parhelion
-![Anime Poster](assets/yohane_lailaps.gif)
+<p align="center">
+  <b>Yohane the Parhelion</b><br>
+  <img src="assets/yohane_lailaps.gif" alt="Yohane and Lailaps" width="300"/>
+</p>
 
 ## Overview
 
