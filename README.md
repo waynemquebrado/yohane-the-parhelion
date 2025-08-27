@@ -1,6 +1,6 @@
 # Yohane The Parhelion
 <p align="center">
-  <img src="assets/anime_poster.jpg" alt="Yohane and Lailaps" width="300"/>
+  <img src="assets/anime_poster.jpg" alt="Yohane and Lailaps" width="900"/>
 </p>
 
 ## Overview
