@@ -108,13 +108,14 @@ The game will prompt for a player name, which will be used to create or load a `
 *   **Prof. Arturo Caronongan**: guidance, feedback, and support throughout the CCPROG2 machine project.
 *   **Stack Overflow**: guidance on `math.h`.
 *   **W3Schools**: reference for `atan2()` function usage.
-*   **Study.com**: exlanations of mathematical concepts applied to the Siren's behavior.
+*   **Study.com**: explanations of mathematical concepts applied to the Siren's behavior.
 *   **Playtesters**: valuable feedback during development.
 *   **GIF Media**: [assets/yohane_lailaps.gif](https://tenor.com/view/yoshiko-tsushima-lailaps-yohane-the-parhelion-anime-genjitsu-no-yohane-sunshine-in-the-mirror-gif-11829191177845240132)
 *   **Image Media**: [assets/anime_poster.jpg](https://boilingsteam.com/tgs2023-bexide-yohane/yohane.jpg)
+*   **Yohane the Parhelion: Sunshine in the Mirror**: inspiration for the program.
 
 ## Disclaimer ⚠️
 
 This repository is for **educational purposes only** as part of a CCPROG2 machine project.  
-All rights to **Yohane the Parhelion**, its characters, artwork, and related media belong to their respective copyright holders.  
+All rights to **Yohane The Parhelion**, its characters, artwork, and related media belong to their respective copyright holders.  
 No copyright infringement is intended.
