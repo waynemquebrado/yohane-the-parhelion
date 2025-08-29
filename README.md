@@ -111,7 +111,7 @@ The game will prompt for a player name, which will be used to create or load a `
 *   **Study.com**: exlanations of mathematical concepts applied to the Siren's behavior.
 *   **Playtesters**: valuable feedback during development.
 *   **GIF Media**: [assets/yohane_lailaps.gif](https://tenor.com/view/yoshiko-tsushima-lailaps-yohane-the-parhelion-anime-genjitsu-no-yohane-sunshine-in-the-mirror-gif-11829191177845240132)
-*   **Image Media**: [assets/anime_poster.jpg](https://static.wikia.nocookie.net/love-live/images/8/8b/Yohane_of_the_Parhelion_Anime_Key_Visual.jpg/revision/latest?cb=20230212120145)
+*   **Image Media**: [assets/anime_poster.jpg](https://boilingsteam.com/tgs2023-bexide-yohane/yohane.jpg)
 
 ## Disclaimer ⚠️
 
